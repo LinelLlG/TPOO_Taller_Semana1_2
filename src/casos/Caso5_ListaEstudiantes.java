@@ -64,7 +64,7 @@ public class Caso5_ListaEstudiantes {
         }
         
         System.out.println("----------------------------------");
-        System.out.println("Registro completado!");
+        System.out.println("Registro exitoso! ");
         
         entrada.close();
 	}
